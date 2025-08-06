@@ -49,7 +49,7 @@
 
 ### _GitHub_
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=transparent" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=dark" />
 </div>
 
 ### _BOJ Stats_
