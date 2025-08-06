@@ -42,6 +42,10 @@
 > 기간 : 2025.03.14 ~ 25.03.24
 ### 🕰️
 
+### _Education_
+> 한국외국어대학교
+> 코드잇 스프린트
+
 ### _GitHub_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=transparent" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=transparent" />
