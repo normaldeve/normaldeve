@@ -34,12 +34,13 @@
 
 ---
 
-### 🏦 **[OZANG - 의상 추천 및 소셜 기능 서비스](https://github.com/FourThread)**
+### 🧥 **[OZANG - 의상 추천 및 소셜 기능 서비스](https://github.com/FourThread)**
 > 기간 : 2025.06.23 ~ 25.07.31
-### 🏦 **[덕후감 - 도서 커뮤니티 서비스](https://github.com/sb01-deokhugam-team1)**
+### 📖 **[덕후감 - 도서 커뮤니티 서비스](https://github.com/sb01-deokhugam-team1)**
 > 기간 : 2025.04.16 ~ 25.05.12
 ### 🏦 **[HR Bank - 기업 인적 자원 관리 서비스](https://github.com/dkseoals15/sb01-hrbank-team04)**
 > 기간 : 2025.03.14 ~ 25.03.24
+### 🕰️
 
 ### _GitHub_
 <div align="center">
