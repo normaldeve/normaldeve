@@ -15,7 +15,8 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
+### Project
+🏦 **[HR Bank - 기업 인적 자원 관리 서비스](https://github.com/dkseoals15/sb01-hrbank-team04)**
 
 ### GitHub
 <div align="center">
