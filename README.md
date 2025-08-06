@@ -2,8 +2,6 @@
 
 
 ### _Hi, I'm **Junwoo**._ 👋
-<!-- 간단한 자기소개나 목표 등을 여기에 작성 -->
-
 
 > I enjoy solving problems and building web services.  
 > I'm a backend developer working with Spring to build scalable and reliable applications.
