@@ -7,6 +7,7 @@
 
 > I enjoy solving problems and building web services.  
 > I'm a backend developer working with Spring to build scalable and reliable applications.
+> I enjoy continuously working on side projects as a hobby.
 ---
 
 ### Technicals
