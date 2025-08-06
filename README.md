@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Hello%20World!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0AEFFF,007CF0&height=150&section=header&text=Junwoo%20Github🐧&fontSize=40&fontColor=ffffff)
+
 
 ## 🧑‍💻 About Me
 <!-- 간단한 자기소개나 목표 등을 여기에 작성 -->
