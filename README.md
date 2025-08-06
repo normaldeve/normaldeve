@@ -1,9 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0AEFFF,007CF0&height=150&section=header&text=Junwoo%20Github🐧&fontSize=40&fontColor=ffffff)
 
 
-## 🧑‍💻 About Me
+### _Hi, I'm **Junwoo**._ 👋
 <!-- 간단한 자기소개나 목표 등을 여기에 작성 -->
 
+
+> I enjoy solving problems and building web services.  
+> I'm a backend developer working with Spring to build scalable and reliable applications.
 ---
 
 ## 💻 Tech Stack
