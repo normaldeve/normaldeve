@@ -31,11 +31,13 @@
 
 ---
 
-## GitHub & BOJ Stats
-
-<table><tr><td><img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=transparent" /></td><td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=transparent" /></td></tr></table>
-
+## GitHub
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo981007" />
+  <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=transparent" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=transparent" />
+</div>
+
+## BOJ Stats
+<div align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo981007" /> <img src="http://mazandi.herokuapp.com/api?handle=junwoo981007&theme=dark"/>
 </div>
 
