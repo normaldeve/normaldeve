@@ -14,7 +14,7 @@
 ### _Technicals_
 **_Backend_**
 
-![Spring](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring&logoColor=white)
+![springboot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=springsecurity&logoColor=white) 
 ![Spring](https://img.shields.io/badge/QueryDSL-0769AD?style=flat&logoColor=white) 
 
