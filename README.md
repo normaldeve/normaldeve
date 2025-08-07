@@ -40,7 +40,8 @@
 > 기간 : 2025.04.16 ~ 25.05.12
 ### 🏦 **[HR Bank - 기업 인적 자원 관리 서비스](https://github.com/dkseoals15/sb01-hrbank-team04)**
 > 기간 : 2025.03.14 ~ 25.03.24
-### 🕰️
+### 🕰️**[POMODORO - 포모도로 기반 모각코 관련 서비스](https://github.com/normaldeve/POMODORO)**
+> 기간 : 2025.08.01 ~ ing
 
 ### _Education_
 > 한국외국어대학교 | 컴퓨터공학, 수학과
