@@ -61,5 +61,5 @@
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo981007" /> <img src="http://mazandi.herokuapp.com/api?handle=junwoo981007&theme=dark"/>
 </div>
 
-### Info
+### _Contact_
 [<img src="https://github.com/user-attachments/assets/146cfac5-325e-4ee9-a122-45f5ba19b6b0" alt="Gmail" width="24" height="24"/>](mailto:junnukim1007@gmail.com)
