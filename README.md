@@ -43,23 +43,33 @@
 ### 🕰️ **[POMODORO - 포모도로 기반 모각코 관련 서비스](https://github.com/normaldeve/POMODORO)**
 > 기간 : 2025.08.01 ~ ing
 
+---
+
 ### _Education_
 > 한국외국어대학교 | 컴퓨터공학, 수학과
 > 
 > 코드잇 스프린트 | 스프링 백엔드 1기
 
+---
+
 ### _Blogs_
 [<img src="https://github.com/user-attachments/assets/1d235f55-bfc9-4a0c-9d88-7cbc3ae9abde" alt="Notion" width="24" height="24"/>](https://shimmering-drifter-eef.notion.site/MY-NOTION-PAGE-1fb5046d9f3c8016b157fa3b28603530?pvs=74)
+
+---
 
 ### _GitHub_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=dark" />
 </div>
 
+---
+
 ### _BOJ Stats_
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo981007" /> <img src="http://mazandi.herokuapp.com/api?handle=junwoo981007&theme=dark"/>
 </div>
+
+---
 
 ### _Contact_
 [<img src="https://github.com/user-attachments/assets/146cfac5-325e-4ee9-a122-45f5ba19b6b0" alt="Gmail" width="24" height="24"/>](mailto:junnukim1007@gmail.com)
