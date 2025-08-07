@@ -1,7 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=0AEFFF,007CF0&height=150&section=header&text=Junwoo%20Github🐧&fontSize=40&fontColor=ffffff)
 
 
-### _Hi, I'm **Junwoo**._ 👋
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/5dc8e240-a9b0-46b2-9dc8-28f5c0b83405" alt="Junwoo Avatar" width="45" height="45" />
+  <strong><em>Hi, I'm Junwoo</em>.</strong> 👋
+</p>
 
 > I'm a backend developer working with Spring to build scalable and reliable applications. <br>
 > I enjoy solving problems and building web services.  
