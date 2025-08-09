@@ -6,7 +6,7 @@
   <strong><em>Hi, I'm Junwoo</em>.</strong> 👋
 </p>
 
-> I'm a backend developer working with Spring to build scalable and reliable applications. <br>
+> I'm a backend developer working with Spring to build scalable, reliable, high-performance, and highly available applications. <br>
 > I enjoy the process of deeply thinking about system design to efficiently handle large-scale traffic and data. <br>
 > I value not only simple technical implementation, but also thoughtful consideration for decision-making on modules, components, and the overall system.
 ---
