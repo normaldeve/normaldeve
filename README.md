@@ -7,8 +7,8 @@
 </p>
 
 > I'm a backend developer working with Spring to build scalable and reliable applications. <br>
-> I enjoy solving problems and building web services.  
-> I enjoy continuously working on side projects as a hobby.
+> I enjoy the process of deeply thinking about system design to efficiently handle large-scale traffic and data.
+> I value not only simple technical implementation, but also thoughtful consideration for decision-making on modules, components, and the overall system.
 ---
 
 ### _Technicals_
