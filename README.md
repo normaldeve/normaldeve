@@ -57,7 +57,7 @@
 ---
 
 ### _Blogs_
-[<img src="https://github.com/user-attachments/assets/1d235f55-bfc9-4a0c-9d88-7cbc3ae9abde" alt="Notion" width="24" height="24"/>](https://shimmering-drifter-eef.notion.site/MY-NOTION-PAGE-1fb5046d9f3c8016b157fa3b28603530?pvs=74)
+[<img src="https://github.com/user-attachments/assets/1d235f55-bfc9-4a0c-9d88-7cbc3ae9abde" alt="Notion" width="24" height="24"/>](www.notions.com)
 
 ---
 
