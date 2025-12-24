@@ -43,11 +43,6 @@
 
 ---
 
-### _Blogs_
-[<img src="https://github.com/user-attachments/assets/1d235f55-bfc9-4a0c-9d88-7cbc3ae9abde" alt="Notion" width="24" height="24"/>](www.notions.com)
-
----
-
 ### _GitHub_
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=dark" />
