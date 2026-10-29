@@ -41,13 +41,6 @@
 
 ---
 
-### _GitHub_
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=normaldeve&show_icons=true&theme=dark" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=normaldeve&theme=dark" />
-</div>
-
----
-
 ### _BOJ Stats_
 <div align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=junwoo981007" /> <img src="http://mazandi.herokuapp.com/api?handle=junwoo981007&theme=dark"/>
